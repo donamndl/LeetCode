@@ -9,12 +9,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/donamndl/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0056-merge-intervals](https://github.com/donamndl/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/donamndl/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0881-boats-to-save-people](https://github.com/donamndl/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/donamndl/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/donamndl/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/donamndl/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0881-boats-to-save-people](https://github.com/donamndl/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/donamndl/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -49,4 +51,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/donamndl/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0881-boats-to-save-people](https://github.com/donamndl/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/donamndl/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 <!---LeetCode Topics End-->
