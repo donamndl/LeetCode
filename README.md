@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/donamndl/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/donamndl/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -58,5 +59,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/donamndl/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0125-valid-palindrome](https://github.com/donamndl/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0881-boats-to-save-people](https://github.com/donamndl/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 <!---LeetCode Topics End-->
