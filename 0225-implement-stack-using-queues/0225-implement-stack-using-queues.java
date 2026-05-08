@@ -1,4 +1,5 @@
 class MyStack {
+    // Using two queue
     Queue<Integer> Q1;
     Queue<Integer> Q2;
     public MyStack() {
@@ -14,6 +15,12 @@ class MyStack {
         Queue<Integer> Temp = Q1;
         Q1 = Q2;
         Q2 = Temp;
+
+        // Using one queue
+        /* Q1.add(x);
+        for(int i = 0; i < Q1.size() - 1; ++i){
+            Q1.add(Q1.remove());
+        } */
     }
     
     public int pop() {
@@ -27,4 +34,6 @@ class MyStack {
     public boolean empty() {
         return Q1.isEmpty();
     }
+
+
 }
