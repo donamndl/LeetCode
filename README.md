@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/donamndl/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0162-find-peak-element](https://github.com/donamndl/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/donamndl/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0496-next-greater-element-i](https://github.com/donamndl/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/donamndl/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/donamndl/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/donamndl/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/donamndl/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/donamndl/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/donamndl/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0496-next-greater-element-i](https://github.com/donamndl/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/donamndl/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/donamndl/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0496-next-greater-element-i](https://github.com/donamndl/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/donamndl/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -107,4 +110,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/donamndl/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/donamndl/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
