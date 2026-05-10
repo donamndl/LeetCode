@@ -47,12 +47,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/donamndl/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0070-climbing-stairs](https://github.com/donamndl/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0412-fizz-buzz](https://github.com/donamndl/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/donamndl/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/donamndl/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0125-valid-palindrome](https://github.com/donamndl/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/donamndl/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/donamndl/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/donamndl/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/donamndl/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/donamndl/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/donamndl/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/donamndl/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
