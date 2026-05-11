@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/donamndl/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0058-length-of-last-word](https://github.com/donamndl/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/donamndl/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/donamndl/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/donamndl/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
