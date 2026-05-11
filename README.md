@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/donamndl/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/donamndl/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0162-find-peak-element](https://github.com/donamndl/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0704-binary-search](https://github.com/donamndl/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/donamndl/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/donamndl/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0069-sqrtx](https://github.com/donamndl/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/donamndl/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0412-fizz-buzz](https://github.com/donamndl/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/donamndl/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
