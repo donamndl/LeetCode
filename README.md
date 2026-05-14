@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/donamndl/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0881-boats-to-save-people](https://github.com/donamndl/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/donamndl/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1929-concatenation-of-array](https://github.com/donamndl/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/donamndl/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0735-asteroid-collision](https://github.com/donamndl/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
+| [1929-concatenation-of-array](https://github.com/donamndl/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
