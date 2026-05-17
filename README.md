@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/donamndl/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0058-length-of-last-word](https://github.com/donamndl/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/donamndl/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0344-reverse-string](https://github.com/donamndl/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/donamndl/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/donamndl/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 ## Simulation
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/donamndl/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/donamndl/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/donamndl/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0344-reverse-string](https://github.com/donamndl/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/donamndl/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0455-assign-cookies](https://github.com/donamndl/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/donamndl/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
