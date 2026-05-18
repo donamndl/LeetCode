@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/donamndl/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/donamndl/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/donamndl/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0561-array-partition](https://github.com/donamndl/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0704-binary-search](https://github.com/donamndl/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/donamndl/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/donamndl/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/donamndl/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/donamndl/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/donamndl/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0561-array-partition](https://github.com/donamndl/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0881-boats-to-save-people](https://github.com/donamndl/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/donamndl/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Binary Search
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/donamndl/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0561-array-partition](https://github.com/donamndl/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/donamndl/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -105,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/donamndl/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/donamndl/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/donamndl/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0561-array-partition](https://github.com/donamndl/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0881-boats-to-save-people](https://github.com/donamndl/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
