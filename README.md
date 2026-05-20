@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/donamndl/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/donamndl/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1929-concatenation-of-array](https://github.com/donamndl/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
+| [3046-split-the-array](https://github.com/donamndl/LeetCode/tree/main/3046-split-the-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,12 +87,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/donamndl/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/donamndl/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/donamndl/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [3046-split-the-array](https://github.com/donamndl/LeetCode/tree/main/3046-split-the-array/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/donamndl/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0561-array-partition](https://github.com/donamndl/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/donamndl/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [3046-split-the-array](https://github.com/donamndl/LeetCode/tree/main/3046-split-the-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
