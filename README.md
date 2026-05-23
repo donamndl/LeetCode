@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/donamndl/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0881-boats-to-save-people](https://github.com/donamndl/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/donamndl/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1528-shuffle-string](https://github.com/donamndl/LeetCode/tree/main/1528-shuffle-string/) | Easy |
 | [1929-concatenation-of-array](https://github.com/donamndl/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [3046-split-the-array](https://github.com/donamndl/LeetCode/tree/main/3046-split-the-array/) | Easy |
 ## Sorting
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/donamndl/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/donamndl/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/donamndl/LeetCode/tree/main/0415-add-strings/) | Easy |
+| [1528-shuffle-string](https://github.com/donamndl/LeetCode/tree/main/1528-shuffle-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
